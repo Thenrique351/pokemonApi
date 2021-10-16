@@ -1,0 +1,42 @@
+body{
+    background: rgb(119, 119, 245);
+    font: normal 15pt Arial;
+    text-align: center;
+
+
+}
+
+header{
+
+
+}
+
+section{
+
+    
+
+
+
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
+
+input[type="date"]{
+    background: red;
+    border-radius: 12px;
+    padding: 12px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 9px 9px 20px black;
+}
+resp#{
+    background: red;
+    border-radius: 12px;
+    padding: 12px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 9px 9px 20px black;
+}
